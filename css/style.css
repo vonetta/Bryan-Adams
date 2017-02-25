@@ -1,0 +1,77 @@
+body
+{
+    font-family: 'Maitree', serif;
+
+    background-color: #fbf9f9;
+}
+
+h1
+{
+    font-weight: 600;
+
+    margin-top: 130px;
+    padding: 20px;
+
+    text-align: center;
+
+    text-shadow: 2px 2px 6px #ccc;
+}
+
+h2
+{
+    font-weight: 300;
+}
+
+
+/*-------------------------------------
+| portfolio page
+-------------------------------------*/
+.collection img:hover
+{
+    transition: 1s;
+    transition-timing-function: ease;
+    transform: scale(1.03);
+}
+
+
+.collection img
+{
+    width: 100%;
+    height: auto;
+}
+
+.collection p
+{
+    font-weight: 400;
+
+    height: 45px;
+    margin-top: 7px;
+
+    text-align: center;
+}
+
+/*-------------------------------------
+| gallery single pages
+-------------------------------------*/
+.thumbnail img:hover
+{
+    transition: .5s;
+    transition-timing-function: ease-in;
+    transform: scale(1.01);
+}
+/*-------------------------------------
+| contact page
+-------------------------------------*/
+
+.glyphicon-asterisk
+{
+    font-size: 8px;
+}
+/*-------------------------------------
+| footer
+-------------------------------------*/
+
+footer p
+{
+    font-size: 10px;
+}
