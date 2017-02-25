@@ -62,8 +62,8 @@ if(isset($_POST["email"]))
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav text-center">
-                            <li><a href="portfolio.html">Portfolio</a></li>
-                            <li class="active"><a href="contact.php">Contact  <span class="sr-only">(current)</span></a></li>
+                            <li><a href="index.html">Portfolio</a></li>
+                            <li class="active"><a href="contact.php">Contact<span class="sr-only">(current)</span></a></li>
 
                         </ul>
 
